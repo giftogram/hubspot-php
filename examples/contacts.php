@@ -1,3 +1,5 @@
+<?php
+
 /*
  *  To create a HubSpot contact, contact data must be passed in via properties
  *  http://developers.hubspot.com/docs/methods/contacts/create_contact
